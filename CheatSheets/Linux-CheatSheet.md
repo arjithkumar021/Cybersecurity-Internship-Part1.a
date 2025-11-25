@@ -11,3 +11,5 @@
 - `ifconfig` / `ip a`: Show network interfaces
 - `ping`: Test connectivity
 - `netstat`: Network statistics
+  ##hi
+  efj
